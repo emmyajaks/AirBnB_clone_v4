@@ -199,5 +199,5 @@ create: create [ARG] [PARAM 1] [PARAM 2] ...
   * **update with dictionary:** `<class name>.update(<id>,
     <dictionary representation>)
 
-   Regards
-   Brian Omondi
+ ## Authors
+Emmanuel Ajakiye - [Github](https://github.com/emmyajaks) / [Twitter](https://twitter.com/emma_ajakaiye) 
